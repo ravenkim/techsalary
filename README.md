@@ -32,7 +32,10 @@
 |    | [사람인 AI 연봉](https://ai-lab.saramin.co.kr/salary-prototype/index) | 실시간 | 전 직군 | 직무·연차별 AI 기반 연봉 분포 및 상위/평균/하위 추정치 |
 |    | [프로그래머스 설문](https://programmers.co.kr/pages/survey) | 2023 | 개발자 | 개발자 커뮤니티 기반 연봉 설문 리포트 |
 |    | [코딩몬스터 연봉 통계](https://www.codingmonster.net/documents/salary) | 2021 | 개발자 | 개발자 커뮤니티 자체 수집 연봉 통계 |
-
+|     | [SW기술자 일평균임금](https://kosis.kr/statHtml/statHtml.do?orgId=375&tblId=DT_375001_002&vw_cd=MT_ZTITLE&conn_path=MT_ZTITLE&lang_mode=ko) | 2024 | SW기술자 | 「일평균임금」 |
+|     | [SW기술자 평균임금](https://kosis.kr/statHtml/statHtml.do?orgId=375&tblId=DT_375001_002&vw_cd=MT_ZTITLE&conn_path=MT_ZTITLE&lang_mode=ko) | 2018 | SW기술자 | 「평균임금」 |
+|     | [SW기술자 임금인상률 현황](https://kosis.kr/statHtml/statHtml.do?orgId=375&tblId=DT_375001_002&vw_cd=MT_ZTITLE&conn_path=MT_ZTITLE&lang_mode=ko) | 2009 | SW기술자 | 「임금인상률(임금상승률) |
+|     | [엔지니어링 기술자 평균임금(엔지니어링 노임단가)](https://kosis.kr/statHtml/statHtml.do?orgId=372&tblId=TX_37201_A000&vw_cd=MT_ZTITLE&conn_path=MT_ZTITLE&lang_mode=ko) | 2025 | 엔지니어링 기술자 | KOSIS「엔지니어링기술자 임금 및 노임단가」중 평균임금·노임단가 |
 
 ---
 
